@@ -1,0 +1,28 @@
+html{
+	scroll-behavior: smooth;
+}
+.background{
+	background: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)) ,url(../img/construction2.jpg) no-repeat center center fixed;
+	background-size: cover;
+    width: 100%;
+}
+.sep{
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.text-box {
+	position: absolute;
+	top: 50%;
+	left: 15%;
+	right: 15%;
+	color: #fff;
+	text-align: center;
+	transform: translateY(-50%);
+}
+.textnav{
+	font-size: 20px;
+	color:#17232c;
+}
+.goal{
+	background-color:#001630;
+}
